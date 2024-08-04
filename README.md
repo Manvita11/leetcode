@@ -27,9 +27,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manvita11/leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manvita11/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Manvita11/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
