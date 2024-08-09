@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Manvita11/leetcode/tree/master/0118-pascals-triangle) |
+| [1646-kth-missing-positive-number](https://github.com/Manvita11/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Manvita11/leetcode/tree/master/0118-pascals-triangle) |
+## Binary Search
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/Manvita11/leetcode/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
