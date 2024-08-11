@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Manvita11/leetcode/tree/master/0118-pascals-triangle) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvita11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/Manvita11/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Matrix
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1646-kth-missing-positive-number](https://github.com/Manvita11/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
