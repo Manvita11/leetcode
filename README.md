@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Manvita11/leetcode/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvita11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manvita11/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manvita11/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1646-kth-missing-positive-number](https://github.com/Manvita11/leetcode/tree/master/1646-kth-missing-positive-number) |
