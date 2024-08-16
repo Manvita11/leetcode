@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Manvita11/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Manvita11/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Manvita11/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Manvita11/leetcode/tree/master/0054-spiral-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manvita11/leetcode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Manvita11/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
