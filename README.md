@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Manvita11/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Manvita11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Manvita11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manvita11/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Manvita11/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Manvita11/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Manvita11/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Manvita11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0088-merge-sorted-array) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Manvita11/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Manvita11/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Manvita11/leetcode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvita11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Manvita11/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Manvita11/leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Manvita11/leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Manvita11/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Manvita11/leetcode/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
