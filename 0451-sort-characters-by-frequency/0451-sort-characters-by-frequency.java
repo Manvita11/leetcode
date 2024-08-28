@@ -1,43 +1,41 @@
 class Solution {
     public String frequencySort(String s) {
+     StringBuilder sb = new StringBuilder();
+        Map<Character, Integer> mp = new HashMap<>();
         
-        HashMap<Character,Integer> map=new HashMap<>();
-
-        for(int i=0;i<s.length();i++){
-
-            if(map.containsKey(s.charAt(i))){
-                map.put(s.charAt(i),map.get(s.charAt(i))+1);
-            }else{
-                map.put(s.charAt(i),1);
+        // Traversing in the String to insert character in the map according to their frequency.
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            if(mp.isEmpty()){
+                mp.put(ch,1);
+            }
+            else if(mp.containsKey(ch)){
+                mp.put(ch, mp.get(ch) + 1);
+            }
+            else {
+                mp.put(ch, 1);
             }
         }
 
-        StringBuilder sb=new StringBuilder();
-        int arr[]=new int[map.size()];
-        int k=0;
-        for(Map.Entry<Character,Integer> e:map.entrySet()){
-                arr[k]=e.getValue();
-                k++;
-        }
+        //  Inserting all the element of Map into list.
+        List<Map.Entry< Character, Integer>> list = new ArrayList<>(mp.entrySet());
 
-        Arrays.sort(arr);
+        //  Sorting the List.
+        list.sort(Map.Entry.comparingByValue());
 
-        for(int i=arr.length-1;i>=0;i--){
+        // Reversing the list in order to get the most frequent character in the start.
+        Collections.reverse(list);
 
-            int num=arr[i];
-            char rem=' ';
-            for(Map.Entry<Character,Integer> e:map.entrySet()){
-                if(e.getValue()==num){
-                    for(int j=0;j<num;j++){
-                        sb.append(e.getKey());
-                        rem=e.getKey();
-                    }
-                    break;
-                }
+        //  Traversing in the list and inserting character in the Stringbuilder according to their frequency.
+        for (Map.Entry<Character, Integer> entry : list) {
+            int a = entry.getValue();
+            char c = entry.getKey();
+            while(a>0){
+                sb.append(c);
+                a--;
             }
-            map.remove(rem);
         }
 
-        return sb.toString();
+     return sb.toString();
     }
 }
