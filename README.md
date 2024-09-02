@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Manvita11/leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Manvita11/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/Manvita11/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvita11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manvita11/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Manvita11/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Manvita11/leetcode/tree/master/0147-insertion-sort-list) |
+| [0179-largest-number](https://github.com/Manvita11/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvita11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvita11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manvita11/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Manvita11/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Manvita11/leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Manvita11/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Manvita11/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Manvita11/leetcode/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Manvita11/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvita11/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manvita11/leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Manvita11/leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
