@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Manvita11/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Manvita11/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Manvita11/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Manvita11/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Manvita11/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Manvita11/leetcode/tree/master/0054-spiral-matrix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Manvita11/leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Manvita11/leetcode/tree/master/0046-permutations) |
 ## Monotonic Stack
 |  |
 | ------- |
