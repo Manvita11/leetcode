@@ -1,26 +1,31 @@
 class Solution {
     List<List<Integer>> ans = new ArrayList<>();
-    public List<List<Integer>> permute(int[] nums) {
-        helper(nums , new ArrayList<>());
-        return ans ;
-    }
-    public void helper(int[] nums , List<Integer> temp){
 
-        if(temp.size() == nums.length)
-         {   
-            ans.add(new ArrayList<>(temp));
-            return ;
-         }
-        for(int i : nums){
-
-            if(!temp.contains(i)){
-                temp.add(i);
-                helper(nums , temp);
-                temp.remove(temp.size()-1);
+    void solve(int[] nums, int[] per, int c) {
+        if (c == nums.length) {
+            List<Integer> permutation = new ArrayList<>();
+            for (int num : per) {
+                permutation.add(num);
+            }
+            ans.add(permutation);
+            return;
+        }
+        for (int i = 0; i < nums.length; i++) {
+            if (per[i] == 11) {
+                per[i] = nums[c];
+                solve(nums, per, c + 1);
+                per[i] = 11;
             }
         }
+    }
 
-        return ;
-
+    public List<List<Integer>> permute(int[] nums) {
+        int n = nums.length;
+        int[] per = new int[n];
+        for (int i = 0; i < n; i++) {
+            per[i] = 11;
+        }
+        solve(nums, per, 0);
+        return ans;
     }
 }
