@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Manvita11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manvita11/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Manvita11/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Manvita11/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manvita11/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Manvita11/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Manvita11/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manvita11/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Manvita11/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Manvita11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manvita11/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Manvita11/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Manvita11/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Manvita11/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Manvita11/leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Manvita11/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvita11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvita11/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Manvita11/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Manvita11/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvita11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Manvita11/leetcode/tree/master/0179-largest-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Manvita11/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
