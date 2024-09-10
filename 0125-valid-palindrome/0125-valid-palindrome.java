@@ -1,28 +1,39 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        String s1= new String();
-        String s2= new String();
-        Boolean result;
-        if(s==null|| s.isEmpty())
-        {
-            return true;
-        }
-        for(int i=0;i<s.length();i++)
-        {
-            char c= s.charAt(i);
-            if((c>='A' && c<='Z')||(c>='a' && c<='z')|| (c >= '0' && c <= '9') )
-            {
-                s1+=Character.toLowerCase(c);
-            }
-        }
-
-        for(int i=s1.length()-1;i>=0;i--)
-        {
-            s2+=s1.charAt(i);
-        }
-       
-           result=s1.equals(s2);
         
-        return result;
+       ArrayList<Character> words = new  ArrayList<Character>(); 
+
+       for(int i = 0 ; i < s.length() ; i++)
+       {
+         if((s.charAt(i) <= 'z' && s.charAt(i) >= 'a') || (s.charAt(i) <= 'Z' && s.charAt(i) >= 'A') || (s.charAt(i) <= '9' && s.charAt(i) >= '0') ) 
+            {
+                if(s.charAt(i) <= 'z' && s.charAt(i) >= 'a' || s.charAt(i) <= '9' && s.charAt(i) >= '0')
+                {
+                    words.add(s.charAt(i));
+                }
+                else 
+                {
+                    words.add((char)(s.charAt(i) + 32));
+                }
+            }
+       }
+
+       int start = 0 ;  
+       int end = words.size() - 1 ; 
+
+       while(start <= end) 
+       {
+
+            if(words.get(start) != words.get(end)) 
+            {
+                return false;
+            }
+
+            start++;
+            end--;
+
+       }
+        
+        return true;
     }
 }
