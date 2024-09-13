@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Manvita11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Manvita11/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Manvita11/leetcode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/Manvita11/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvita11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manvita11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Manvita11/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Manvita11/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Manvita11/leetcode/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -216,4 +218,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manvita11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
