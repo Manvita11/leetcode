@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Manvita11/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Manvita11/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Manvita11/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Manvita11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manvita11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0088-merge-sorted-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manvita11/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Manvita11/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Manvita11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manvita11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Manvita11/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manvita11/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Manvita11/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2411-spiral-matrix-iv](https://github.com/Manvita11/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Bucket Sort
 |  |
