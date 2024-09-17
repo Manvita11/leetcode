@@ -1,33 +1,38 @@
 class Solution {
-
-    public boolean isSplittable(int maxSum , int[] nums , int k) {
-       int currentSum = 0 , count = 1;
-       for(int num : nums) {
-           currentSum += num;
-           if(currentSum > maxSum) {
-               count++;
-               currentSum = num;
-               if(count > k) return false;
-           }
-
-       }
-       return true;
-    }
-
     public int splitArray(int[] nums, int k) {
-        int low = 0;
-        int high = 0;
-        for(int num : nums) {
-            low = Math.max(low,num);
+         int low = 0;
+         int high = 0;
+         for(int num:nums)
+         {
+            low  = Math.max(low,num);
             high += num;
-        }
-
-        while(low <= high) {
-            int mid = low + (high - low) / 2;
-            if(isSplittable(mid,nums,k)) high = mid - 1;
-            else low = mid + 1;
-        }
-        return low;
+         }
+         while(low<high)
+         {
+            int count = 1;
+            int sum = 0;
+            int mid = low + (high-low)/2;
+            for(int num: nums)
+            {
+                if(sum+num > mid)
+                {
+                    sum = num;
+                    count++;
+                }
+                else
+                {
+                    sum += num;
+                }
+            }
+            if(count<=k)
+            {
+                high = mid;
+            }
+            else
+            {
+                low = mid+1;
+            }
+         }
+         return high;
     }
 }
-
