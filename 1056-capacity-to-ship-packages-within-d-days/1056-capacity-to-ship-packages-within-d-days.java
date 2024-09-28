@@ -1,32 +1,56 @@
 class Solution {
-    public int shipWithinDays(int[] arr, int days) {
-        int max=Integer.MIN_VALUE,sum=0;
-        for(int i=0;i<arr.length;i++){
-            max=Math.max(max,arr[i]);
-            sum+=arr[i];
-        }
-        int start=max,end=sum;
-        while(start<=end){
-            int mid=start+(end-start)/2;
-            if(isPossbile(mid,arr,days)){
-                end=mid-1;
-            }else{
-                start=mid+1;
+    public int shipWithinDays(int[] weights, int days) {
+        int low=findmax(weights);
+        int high=sumofele(weights);
+        int res=Integer.MAX_VALUE;
+        while(low<=high)
+        {
+            int mid=(low+high)/2;
+            if(check(weights,mid,days))
+            {
+                res=Math.min(mid,res);
+                high=mid-1;
+            }
+            else
+            {
+                low=mid+1;
             }
         }
-        return start;
+        return res;
     }
-    public boolean isPossbile(int mid,int arr[],int days){
-        int no_days=1,sum=0;
-        for(int i=0;i<arr.length;i++){
-            if(sum+arr[i]>mid){
-                no_days++;
-                sum=arr[i];
-            }else{
-                sum+=arr[i];
+    public boolean check(int weights[],int mid,int days)
+    {
+        int reqdays=1,load=0;
+        for(int i=0;i<weights.length;i++)
+        {
+            if(load+weights[i]>mid)
+            {
+                reqdays++;
+                load=weights[i];
+            }
+            else
+            {
+                load+=weights[i];
             }
         }
-        System.out.print(no_days+" ");
-        return no_days<=days;
+        if(reqdays<=days)
+            return true;
+        return false;
+    }
+    public int findmax(int weights[])
+    {
+        int maxi=weights[0];
+        for(int i=0;i<weights.length;i++)
+        {
+            maxi=Math.max(maxi,weights[i]);
+        }
+        return maxi;
+    }
+    public int sumofele(int weights[])
+    {
+        int sumofele=0;
+        for(int ele:weights)
+            sumofele+=ele;
+        return sumofele;
     }
 }
