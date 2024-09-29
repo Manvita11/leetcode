@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Manvita11/leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manvita11/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0739-daily-temperatures](https://github.com/Manvita11/leetcode/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/Manvita11/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manvita11/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manvita11/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manvita11/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manvita11/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Manvita11/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Manvita11/leetcode/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manvita11/leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Manvita11/leetcode/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
