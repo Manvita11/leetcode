@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Manvita11/leetcode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manvita11/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvita11/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Manvita11/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manvita11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Manvita11/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manvita11/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Manvita11/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manvita11/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manvita11/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Manvita11/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Manvita11/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manvita11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/Manvita11/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Manvita11/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Manvita11/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manvita11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Backtracking
 |  |
