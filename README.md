@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Manvita11/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Manvita11/leetcode/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manvita11/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1923-sentence-similarity-iii](https://github.com/Manvita11/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manvita11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Manvita11/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Manvita11/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manvita11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Manvita11/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2411-spiral-matrix-iv](https://github.com/Manvita11/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Manvita11/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/Manvita11/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Manvita11/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Manvita11/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Manvita11/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/Manvita11/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2755-extra-characters-in-a-string](https://github.com/Manvita11/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manvita11/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Trie
