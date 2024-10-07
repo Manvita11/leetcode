@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Manvita11/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/Manvita11/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Manvita11/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/Manvita11/leetcode/tree/master/0450-delete-node-in-a-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -321,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Manvita11/leetcode/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
