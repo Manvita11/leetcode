@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Manvita11/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Manvita11/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Manvita11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Manvita11/leetcode/tree/master/0141-linked-list-cycle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manvita11/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Manvita11/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Manvita11/leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Manvita11/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Manvita11/leetcode/tree/master/0066-plus-one) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manvita11/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Manvita11/leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Manvita11/leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Manvita11/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Manvita11/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manvita11/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
