@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvita11/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvita11/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -362,4 +364,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manvita11/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Manvita11/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
