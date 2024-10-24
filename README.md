@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manvita11/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/Manvita11/leetcode/tree/master/0739-daily-temperatures) |
+| [0898-transpose-matrix](https://github.com/Manvita11/leetcode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Manvita11/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manvita11/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manvita11/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Manvita11/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvita11/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manvita11/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0898-transpose-matrix](https://github.com/Manvita11/leetcode/tree/master/0898-transpose-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Manvita11/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Sorting
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manvita11/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manvita11/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/Manvita11/leetcode/tree/master/0898-transpose-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Manvita11/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2411-spiral-matrix-iv](https://github.com/Manvita11/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Bucket Sort
