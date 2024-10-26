@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Manvita11/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Manvita11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manvita11/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Manvita11/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Manvita11/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/Manvita11/leetcode/tree/master/0443-string-compression) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Manvita11/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manvita11/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Manvita11/leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Manvita11/leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Manvita11/leetcode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manvita11/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Manvita11/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manvita11/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Manvita11/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Manvita11/leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/Manvita11/leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvita11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvita11/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Manvita11/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
