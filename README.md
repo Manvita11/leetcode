@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Manvita11/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Manvita11/leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Manvita11/leetcode/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/Manvita11/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manvita11/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvita11/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Manvita11/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Manvita11/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Manvita11/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manvita11/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/Manvita11/leetcode/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manvita11/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manvita11/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0898-transpose-matrix](https://github.com/Manvita11/leetcode/tree/master/0898-transpose-matrix) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Manvita11/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Manvita11/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Manvita11/leetcode/tree/master/0205-isomorphic-strings) |
+| [0212-word-search-ii](https://github.com/Manvita11/leetcode/tree/master/0212-word-search-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manvita11/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Manvita11/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manvita11/leetcode/tree/master/0014-longest-common-prefix) |
+| [0212-word-search-ii](https://github.com/Manvita11/leetcode/tree/master/0212-word-search-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/Manvita11/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Manvita11/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Simulation
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Manvita11/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Manvita11/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Manvita11/leetcode/tree/master/0047-permutations-ii) |
+| [0212-word-search-ii](https://github.com/Manvita11/leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
 |  |
