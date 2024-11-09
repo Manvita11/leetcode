@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Manvita11/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manvita11/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/Manvita11/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manvita11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2755-extra-characters-in-a-string](https://github.com/Manvita11/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Search
 |  |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manvita11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manvita11/leetcode/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manvita11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manvita11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Manvita11/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Manvita11/leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
